@@ -1,0 +1,6 @@
+{
+  "name": "InterviewAI Pro",
+  "description": "Enterprise AI Interview Coach & Live Monitoring System with Multi-Agent Intelligence, Computer Vision & Real-time Analytics",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
