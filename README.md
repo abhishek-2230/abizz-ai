@@ -4,4 +4,8 @@
 
 ## 🎥 AI Agent System Architecture
 
-[▶️ Open AI Agent System Architecture Video](./Abhishek%20R.%20%28AI%20AGENT%20SYSTEM%20ARCHITECTURE%29.mp4)
+
+
+https://github.com/user-attachments/assets/a7c781ec-f465-404c-a0fe-d76011b437b0
+
+
