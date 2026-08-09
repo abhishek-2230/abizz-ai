@@ -5,7 +5,11 @@
 ## 🎥 AI Agent System Architecture
 
 
-https://github.com/user-attachments/assets/cbbcc028-dd7a-4841-ac55-01739a06626b
+
+
+Uploading Abhishek R. (AI AGENT SYSTEM ARCHITECTURE).mp4…
+
+
 
 
 
